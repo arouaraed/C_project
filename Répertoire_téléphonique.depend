@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1713957136 source:c:\users\aroua\desktop\c exercices (1)\répertoire_téléphonique\projet.c
+	"projet.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
+1713956843 c:\users\aroua\desktop\c exercices (1)\répertoire_téléphonique\projet.h
+
+1713967107 source:c:\users\aroua\desktop\c exercices (1)\répertoire_téléphonique\main.c
+	"projet.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713967107 source:c:\users\aroua\desktop\c_project\main.c
+	"projet.h"
+	<stdio.h>
+	<stdlib.h>
+
+1713956843 c:\users\aroua\desktop\c_project\projet.h
+
+1713957136 source:c:\users\aroua\desktop\c_project\projet.c
+	"projet.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+
